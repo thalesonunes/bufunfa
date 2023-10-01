@@ -1,7 +1,7 @@
 # Bufunfa
 ![](BufunfaAPP.jpg)
 
-#### Descrição:
+### Descrição:
 
 App de pagamentos - Projeto em desenvolvimento para aplicação de tecnologias e conceitos em estudo. 
 
@@ -9,16 +9,17 @@ A princípio o app receberá pagamentos apenas de cartão de crédito e será ev
 
 
 
-#### Arquitetura inicial:
+### Arquitetura inicial:
 
-![](BufunfaArquitetura.jpg)
+![https://miro.com/app/board/uXjVMeeQCi0=/?share_link_id=699541679461](BufunfaArquitetura.jpg)
 
-#### Tecnologia / Características:
+### Tecnologia / Características:
 
 - Arquitetura de Microsserviços
 - API REST
 - Kotlin (Java 11)
-- Webflux
+- Spring Framework
+- Programação reativa (Webflux)
 - Kafka
 - Redis
 - Docker
