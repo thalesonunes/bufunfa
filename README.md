@@ -11,7 +11,7 @@ A princípio o app receberá pagamentos apenas de cartão de crédito e será ev
 
 ### Arquitetura inicial:
 
-[](https://miro.com/app/board/uXjVMeeQCi0=/?share_link_id=699541679461)![](BufunfaArquitetura.jpg)
+[Projeto no Miro](https://miro.com/app/board/uXjVMeeQCi0=/?share_link_id=699541679461)![](BufunfaArquitetura.jpg)
 
 ### Tecnologia / Características:
 
